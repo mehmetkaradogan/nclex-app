@@ -1,0 +1,1 @@
+var e=e=>`rgb(var(--c-${e}))`;function t(e){let t=getComputedStyle(document.documentElement).getPropertyValue(`--c-${e}`).trim().split(/\s+/).map(Number);return t.length!==3||t.some(e=>!Number.isFinite(e))?`#0E7C86`:`#`+t.map(e=>e.toString(16).padStart(2,`0`)).join(``)}export{e as n,t};
