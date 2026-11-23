@@ -1,0 +1,16 @@
+{
+  "name": "NCLEX Stüdyo",
+  "short_name": "NCLEX Stüdyo",
+  "description": "Nöbet temposuna uyarlanmış NCLEX-RN hazırlık istasyonu",
+  "lang": "tr",
+  "start_url": "./#/dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F4EF",
+  "theme_color": "#1E5A4C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
